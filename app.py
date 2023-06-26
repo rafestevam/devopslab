@@ -6,7 +6,7 @@ csrf = CSRFProtect(app)
 
 @app.route("/")
 def pagina_inicial():
-    return "Olá, Bem vindo ao mundo do DevSecOps com Sonar!"
+    return "Entrega Final - 10ASO - Grupo 06 : Adriano, Diogo, Fabio e Rafael"
 
 if __name__ == '__main__':
     app.run()
